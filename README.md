@@ -1,16 +1,17 @@
-
 # Watson - Gitpod VNC Setup for Firefox
 
-- Connect repository with gitpod.io with the prefix `gitpod.io#{reposrc}`.
+Ever wanted to browse anonymously? We've got you. Watson allows you to browse anonymously on a server-sided virtual machine that's hosted by Gitpod. It's fully free to set up and use.
 
-- Launch repository on gitpod.io.
+## Setup
+**#1**: Link your Gitlab account with Gitpod.
 
-- Click 'Open Browser' on port `6080`. 
+**#2**: Open the workspace in Gitpod. <a href="https://gitpod.io/#https://gitlab.com/Kqpa/watson"><img src="https://gitpod.io/button/open-in-gitpod.svg"></a>
 
-- To make the VM public, click make public; to make it private, click make private.
+**#3**: When the workspace is ready, click "open preview" or "open browser" on port `6080`. Making the port public will give everyone access to your VM.
 
-- To close the VM, go to gitpod dashboard and click "stop".
- 
- FYI: Data does not save when you quit the VM! 
+## Important Notes
+- Gitpod allows you 50 hours free montly as the free plan. Please stop the workspace after you're done with the VM. This can be done by going to the Gitpod dashboard, clicking the 3 dots and clicking "Stop".
 
-<a href="https://gitpod.io/#https://gitlab.com/Kqpa/watson"><img src="https://gitpod.io/button/open-in-gitpod.svg"></a>
+- Your workspace will be deleted in 14 days if you don't pin it on Gitpod. You can pin your workspace by clicking the 3 dots and pressing "Pin".
+
+- Nothing saves after you stop the VM, and you cannot keep a workspace open forever. It stops after 30 minutes.
