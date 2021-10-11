@@ -24,3 +24,5 @@ Watson allows you to browse anonymously on a server-sided virtual machine that's
 - Everything you've done will be deleted when you stop the virtual machine, and you cannot keep a workspace open forever. It automatically stops after 30 minutes.
 
 - Making port `6080` public will give everyone who has the noVNC link access to your virtual machine.
+
+- Do not close the tab while the virtual machine is creating, stopping or starting. If you do so the workspace will fail. You can fix this by re-creating the workspace.
