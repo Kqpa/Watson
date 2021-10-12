@@ -29,3 +29,5 @@ Watson allows you to browse anonymously on a server-sided virtual machine that's
 - Making port `6080` public will give everyone who has the noVNC link access to your virtual machine.
 
 - Do not close the tab while the workspace is creating, stopping or starting. If you do so the workspace will fail. You can fix this by re-creating the workspace.
+
+- If the workspace is stuck at the loading page for a long time, re-create it.
