@@ -34,6 +34,5 @@ Watson allows you to browse anonymously on a server-sided virtual machine that's
 
 ## Mirrors
 
-- **[GitHub](https://github.com/Shigetorum635/Watson)**: [![](https://img.shields.io/badge/Gitpod-Open--in--Gitpod-black?logo=gitpod)](https://gitpod.io/#https://github.com/Shigetorum635/Watson
-)
+- **[GitHub](https://github.com/Shigetorum635/Watson)**: [![](https://img.shields.io/badge/Gitpod-Open--in--Gitpod-black?logo=gitpod)](https://gitpod.io/#https://github.com/Shigetorum635/Watson)
 - **[BitBucket](https://bitbucket.org/kqpa/watson/)**: [![](https://img.shields.io/badge/Gitpod-Open--in--Gitpod-blue?logo=gitpod)](https://gitpod.io/#https://bitbucket.org/kqpa/watson/)
